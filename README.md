@@ -32,14 +32,6 @@ Compétences visées :
 
 ---
 
-##  Livrables
-| Type | Contenu | Format |
-|------|----------|---------|
-| Groupe | Captures, réponses, tests | PDF unique |
-| Individuel | Question + conclusion | PDF par étudiant |
-
----
-
 ##  Commandes utiles
 `dcdiag /v` • `nslookup` • `gpresult /R` • `gpupdate /force` • `whoami /groups`
 
