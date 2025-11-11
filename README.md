@@ -45,5 +45,5 @@ Compétences visées :
 
 ---
 
-## 🧾 Synthèse
+##  Synthèse
 Mise en œuvre complète d’un domaine **Active Directory** : installation, sécurité, automatisation et validation fonctionnelle.
