@@ -26,12 +26,6 @@ Compétences visées :
 
 ---
 
-##  Travail individuel
-- 1 question parmi 4 (sans doublon)  
-- Conclusion personnelle (10 à 15 lignes)
-
----
-
 ##  Commandes utiles
 `dcdiag /v` • `nslookup` • `gpresult /R` • `gpupdate /force` • `whoami /groups`
 
